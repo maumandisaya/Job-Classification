@@ -34,4 +34,4 @@ Dengan menggunakan _best parameters_ di atas, model dievaluasi menggunakan data 
 #### Analisis Confusion Matrix
 Untuk memahami lebih dalam mengenai metrik _Precision_ dan _Recall_ yang dihasilkan, berikut adalah _Heatmap Confusion Matrix_ dari model evaluasi:
 
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
